@@ -1,0 +1,70 @@
+year	car	Highway	Carbon Footprint (CO2/mile)	cyl	Hybrid
+2015 Toyota Prius Plug-in Hybrid 1.8 L	48	133	4	Hybrid
+2015 Toyota Prius 1.8 L	49	178	4	Hybrid
+2015 Honda Accord Hybrid 2.0 L	45	188	4	Hybrid
+2015 Ford Fusion Hybrid FWD 2.0 L	41	209	4	Hybrid
+2015 Toyota Camry Hybrid LE 2.5 L	39	215	4	Hybrid
+2015 Ford C-MAX Hybrid FWD 2.0 L	37	225	4	Hybrid
+2015 Toyota Camry Hybrid XLE/SE 2.5 L	38	224	4	Hybrid
+2015 Ford C-MAX Energi Plug-in Hybrid 2.0 L	36	129	4	Hybrid
+2015 Ford Fusion Energi Plug-in Hybrid 2.0 L	36	129	4	Hybrid
+2015 Hyundai Sonata Hybrid 2.4 L	40	237	4	Hybrid
+2015 Kia Optima Hybrid 2.4 L	40	237	4	Hybrid
+2015 Hyundai Sonata Hybrid Limited 2.4 L	40	239	4	Hybrid
+2015 Kia Optima Hybrid EX 2.4 L	39	242	4	Hybrid
+2015 Volkswagen Passat 2.0 L	44	293	4	Gas
+2015 Volkswagen Passat 2.0 L	42	298	4	Gas
+2015 Mazda 6 2.5 L	40	275	4	Gas
+2015 Hyundai Sonata 1.6 L	38	282	4	Gas
+2015 Nissan Altima 2.5 L	38	284	4	Gas
+2015 Honda Accord 2.4 L	36	292	4	Gas
+2015 Mazda 6 2.5 L	38	293	4	Gas
+2015 Subaru Legacy AWD 2.5 L	36	298	4	Gas
+2015 Honda Accord 2.4 L	35	302	4	Gas
+2015 Ford Fusion FWD 1.5 L	37	303	4	Gas
+2015 Hyundai Sonata 2.4 L	37	308	4	Gas
+2015 Mazda 6 2.5 L	37	304	4	Gas
+2015 Buick LaCrosse eAssist 2.4 L	36	310	4	Gas
+2015 Buick Regal eAssist 2.4 L	36	310	4	Gas
+2015 Chevrolet Malibu 2.5 L	36	307	4	Gas
+2015 Toyota Camry 2.5 L	35	317	4	Gas
+2015 Ford Fusion FWD 1.5 L	36	316	4	Gas
+2015 Volkswagen Passat 1.8 L	36	311	4	Gas
+2015 Hyundai Sonata Sport Limited 2.4 L	35	323	4	Gas
+2015 Volkswagen Passat 1.8 L	35	314	4	Gas
+2015 Chrysler 200 2.4 L	36	322	4	Gas
+2015 Chrysler 200 2.4 L	36	322	4	Gas
+2015 Honda Accord 2.4 L	34	324	4	Gas
+2015 Kia Optima 2.4 L	34	330	4	Gas
+2015 Hyundai Sonata 2.0 L	32	344	4	Gas
+2015 Ford Fusion FWD 2.5 L	34	338	4	Gas
+2015 Ford Fusion FWD 2.0 L	33	338	4	Gas
+2015 Nissan Altima 3.5 L	32	348	6	Gas
+2015 Honda Accord 3.5 L	34	346	6	Gas
+2015 Chevrolet Impala 2.5 L	31	355	4	Gas
+2015 Ford Fusion AWD 2.0 L	31	354	4	Gas
+2015 Volkswagen CC 2.0 L	31	349	4	Gas
+2015 Honda Accord 3.5 L	32	362	6	Gas
+2015 Volkswagen CC 2.0 L	32	361	4	Gas
+2015 Hyundai Sonata Limited 2.0 L	31	362	4	Gas
+2015 Toyota Camry 3.5 L	31	358	6	Gas
+2015 Buick Regal 2.0 L	30	371	4	Gas
+2015 Chevrolet Malibu 2.0 L	30	371	4	Gas
+2015 Buick Regal 2.0 L	31	369	4	Gas
+2015 Kia Optima 2.0 L	31	369	4	Gas
+2015 Subaru Legacy AWD 3.6 L	29	385	6	Gas
+2015 Volkswagen Passat 3.6 L	28	390	6	Gas
+2015 Chrysler 200 3.6 L	32	385	6	Gas
+2015 Chrysler 200 3.6 L	32	385	6	Gas
+2015 Buick Regal 2.4 L	31	379	4	Gas
+2015 Chevrolet Impala 3.6 L	29	399	6	Gas
+2015 Buick Regal AWD 2.0 L	27	405	4	Gas
+2015 Chevrolet Impala Limited 3.6 L	30	408	6	Gas
+2015 Chrysler 200 AWD 3.6 L	29	403	6	Gas
+2015 Chrysler 200 AWD 3.6 L	29	403	6	Gas
+2015 Honda Accord 3.5 L	28	413	6	Gas
+2015 Buick LaCrosse 3.6 L	28	417	6	Gas
+2015 Buick LaCrosse 3.6 L	28	422	6	Gas
+2015 Chevrolet Impala 3.6 L	28	417	6	Gas
+2015 Buick LaCrosse AWD 3.6 L	26	443	6	Gas
+2015 Volkswagen CC 4motion 3.6 L	25	446	6	Gas
